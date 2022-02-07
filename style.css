@@ -21,4 +21,5 @@
 html,
 body {
 	font-family: 'Outfit', sans-serif;
+	background: var(--custom-lightgray);
 }
