@@ -77,4 +77,16 @@ a {
 	margin: 0.5rem 0;
 }
 
+/* Attribution */
+.attribution {
+	font-size: 0.8rem;
+}
+
+.attribution a {
+	color: var(--custom-darkblue);
+	transition: color 0.3s ease;
+}
+
+.attribution a:hover {
+	color: var(--custom-grayblue);
 }
