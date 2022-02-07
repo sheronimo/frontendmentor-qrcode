@@ -29,8 +29,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sheronimo/frontendmentor-qrcode)
-- Live Site URL: [Add live site URL here](https://sheronimo.github.io/frontendmentor-qrcode)
+- Solution URL: [Here!](https://github.com/sheronimo/frontendmentor-qrcode)
+- Live Site URL: [Here!](https://sheronimo.github.io/frontendmentor-qrcode)
 
 ## My process
 
