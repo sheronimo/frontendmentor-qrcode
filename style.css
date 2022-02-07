@@ -39,4 +39,42 @@ a {
 	text-decoration: none;
 }
 
+/* QR Code Card */
+.qr-card {
+	/* Set a max width for responsiveness */
+	width: 90%;
+	max-width: var(--max-width);
+	margin: 0 auto;
+	margin-bottom: 2rem;
+	padding: 1rem;
+	background: var(--custom-white);
+	border-radius: 20px;
+	box-shadow: 0 10px 20px hsla(219, 15%, 55%, 0.2);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.qr-img {
+	max-width: 100%;
+	height: auto;
+}
+
+.qr-caption {
+	padding: 1rem;
+}
+
+.qr-heading {
+	font-weight: 700;
+	color: var(--custom-darkblue);
+	margin: 1rem 0;
+}
+
+.qr-desc {
+	color: var(--custom-grayblue);
+	margin: 0.5rem 0;
+}
+
 }
