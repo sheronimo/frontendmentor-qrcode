@@ -1,12 +1,13 @@
 /* Font */
-@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
 /* Variables */
 :root {
 	--custom-white: hsl(0, 0%, 100%);
 	--custom-lightgray: hsl(212, 45%, 89%);
-	--custom-grayblue: hsl(220, 15%, 55%);
+	--custom-grayblue: hsl(219, 15%, 55%);
 	--custom-darkblue: hsl(218, 44%, 22%);
+	--max-width: 350px;
 }
 
 /* Reset/Base Styles */
@@ -21,5 +22,13 @@
 html,
 body {
 	font-family: 'Outfit', sans-serif;
+	font-size: 15px;
 	background: var(--custom-lightgray);
+	/* Center all content on page */
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 }
