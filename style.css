@@ -44,7 +44,6 @@ a {
 	/* Set a max width for responsiveness */
 	width: 80%;
 	max-width: var(--max-width);
-	margin: 0 auto;
 	margin-bottom: 2rem;
 	padding: 1rem;
 	background: var(--custom-white);
