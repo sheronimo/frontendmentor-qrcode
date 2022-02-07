@@ -1,0 +1,24 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+/* Variables */
+:root {
+	--custom-white: hsl(0, 0%, 100%);
+	--custom-lightgray: hsl(212, 45%, 89%);
+	--custom-grayblue: hsl(220, 15%, 55%);
+	--custom-darkblue: hsl(218, 44%, 22%);
+}
+
+/* Reset/Base Styles */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	font-family: 'Outfit', sans-serif;
+}
