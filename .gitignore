@@ -15,5 +15,5 @@
 .DS_Store
 .prettierignore
 
-# Hide design files
-.design
+# Hide design folder
+design/
