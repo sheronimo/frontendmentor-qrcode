@@ -42,7 +42,7 @@ a {
 /* QR Code Card */
 .qr-card {
 	/* Set a max width for responsiveness */
-	width: 90%;
+	width: 80%;
 	max-width: var(--max-width);
 	margin: 0 auto;
 	margin-bottom: 2rem;
